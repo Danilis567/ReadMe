@@ -12,13 +12,13 @@ Hoş geldiniz! Benim adım halil ve bu benim GitHub profilim. Burada birçok far
 ## 🌱 Şu anda öğrenmekte olduğum şeyler
 
 - 📱 React Navite ile mobil uygulama geliştirme
-- 🤖 Makine öğrenimi
+- 😺 NestJS 
 - 🌐 Yeni web teknolojileri öğrenme ve öğretme 
 
 ## 📫 İletişim
 
 Benimle iletişime geçmekten çekinmeyin:
-
+- [Twitter Profilim](https://twitter.com/Danilis568)
 - [LinkedIn Profilim](https://www.linkedin.com/in/halil-anik/)
 - [E-posta Adresinim](mailto:hani56932@gmail.com)
 
