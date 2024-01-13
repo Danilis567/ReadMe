@@ -8,26 +8,19 @@ Hoş geldiniz! Benim adım halil ve bu benim GitHub profilim. Burada birçok far
 - 🎓 bilişim alanında eğitim almak istoyurm.
 - 🚀 Yeni teknolojiler ile projeler üretmeye ve açık kaynak katkıları yapmaya istiyorum.
 
-## 🚀 Projeler
-
-İşte üzerinde çalıştığım bazı projeler:
-
-- [Proje Adı 1](link1): Kısa bir açıklama ekleyin.
-- [Proje Adı 2](link2): Kısa bir açıklama ekleyin.
-- [Proje Adı 3](link3): Kısa bir açıklama ekleyin.
 
 ## 🌱 Şu anda öğrenmekte olduğum şeyler
 
-- 📱 Mobil uygulama geliştirme
+- 📱 React Navite ile mobil uygulama geliştirme
 - 🤖 Makine öğrenimi
-- 🌐 Yeni teknolojiler ve dil öğrenme
+- 🌐 Yeni web teknolojileri öğrenme ve öğretme 
 
 ## 📫 İletişim
 
 Benimle iletişime geçmekten çekinmeyin:
 
 - GitHub: [GitHub Profilim](link_to_profile)
-- LinkedIn: [LinkedIn Profilim](link_to_linkedin)
+- LinkedIn: [LinkedIn Profilim](https://www.linkedin.com/in/halil-anik/)
 - E-posta: [E-posta Adresiniz](mailto:you@example.com)
 
 ## 🤝 Katkıda Bulunma
