@@ -1,12 +1,12 @@
-# Merhaba, Ben [Kullanıcı Adınız]
+# Merhaba, Ben Danilis
 
-Hoş geldiniz! Benim adım [Adınız] ve bu benim GitHub profilim. Burada birçok farklı projede çalışıyorum ve ilginç bulabileceğiniz birçok şey bulabilirsiniz.
+Hoş geldiniz! Benim adım halil ve bu benim GitHub profilim. Burada birçok farklı küçük projede çalışıyorum ve ilginç bulabileceğiniz birçok şey bulabilirsiniz.
 
 ## 🧑‍💻 Hakkımda
 
-- 🌐 Web geliştirme ve yazılım mühendisliği ile ilgileniyorum.
-- 🎓 Bilgisayar Bilimleri alanında eğitim aldım.
-- 🚀 Yenilikçi projeler üretmeye ve açık kaynak katkıları yapmaya odaklanıyorum.
+- 🌐 Web geliştirici olmak istiyorum ve grafik tasarım ile ilgileniyorum.
+- 🎓 bilişim alanında eğitim almak istoyurm.
+- 🚀 Yeni teknolojiler ile projeler üretmeye ve açık kaynak katkıları yapmaya istiyorum.
 
 ## 🚀 Projeler
 
