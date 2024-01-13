@@ -19,9 +19,8 @@ Hoş geldiniz! Benim adım halil ve bu benim GitHub profilim. Burada birçok far
 
 Benimle iletişime geçmekten çekinmeyin:
 
-- GitHub: [GitHub Profilim](link_to_profile)
-- LinkedIn: [LinkedIn Profilim](https://www.linkedin.com/in/halil-anik/)
-- E-posta: [E-posta Adresiniz](mailto:hani56932@gmail.com)
+- [LinkedIn Profilim](https://www.linkedin.com/in/halil-anik/)
+- [E-posta Adresinim](mailto:hani56932@gmail.com)
 
 ## 🤝 Katkıda Bulunma
 
