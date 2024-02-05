@@ -27,3 +27,4 @@ Benimle iletişime geçmekten çekinmeyin:
 Eğer bir projeme katkıda bulunmak istiyorsanız, lütfen bir konu açın veya bir çekme isteği gönderin. Katkılarınızı bekliyorum!
 
 Teşekkür ederim ve ilginiz için sağ olun!
+
