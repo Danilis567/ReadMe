@@ -18,7 +18,6 @@ Hoş geldiniz! Benim adım halil ve bu benim GitHub profilim. Burada birçok far
 ## 📫 İletişim
 
 Benimle iletişime geçmekten çekinmeyin:
-- [Twitter Profilim](https://twitter.com/Danilis568)
 - [LinkedIn Profilim](https://www.linkedin.com/in/halil-anik/)
 - [E-posta Adresinim](mailto:hani56932@gmail.com)
 
